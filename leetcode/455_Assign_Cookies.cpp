@@ -60,13 +60,13 @@ public:
     }
 };
 
-int main(){
-    std::vector<int> childrens = {1, 2, 3};
-    std::vector<int> cookies = {1, 1};
-    solution *sol = new solution();
-    int ret;
-    ret = sol->findContentChildred(childrens,cookies);
-
-    std::cout<<ret<<std::endl;
-    return 0;
-}
+//int main(){
+//    std::vector<int> childrens = {1, 2, 3};
+//    std::vector<int> cookies = {1, 1};
+//    solution *sol = new solution();
+//    int ret;
+//    ret = sol->findContentChildred(childrens,cookies);
+//
+//    std::cout<<ret<<"done"<<std::endl;
+//    return 0;
+//}
