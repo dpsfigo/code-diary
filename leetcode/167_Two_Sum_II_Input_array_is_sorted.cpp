@@ -58,14 +58,14 @@ public:
 
 };
 
-int main(){
-    Solution* sol = new Solution();
-    vector<int> numbers = {2,3,4};
-    int target = 6;
-    vector<int> ret;
-    ret = sol->twoSum(numbers,target);
-    for(int i = 0; i < ret.size(); ++i) {
-        std::cout << ret[i] << endl;
-    }
-    return 0;
-}
+//int main(){
+//    Solution* sol = new Solution();
+//    vector<int> numbers = {2,3,4};
+//    int target = 6;
+//    vector<int> ret;
+//    ret = sol->twoSum(numbers,target);
+//    for(int i = 0; i < ret.size(); ++i) {
+//        std::cout << ret[i] << endl;
+//    }
+//    return 0;
+//}
