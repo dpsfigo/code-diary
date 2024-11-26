@@ -57,16 +57,16 @@ public:
 
 };
 
-int main(){
-    Solution* sol = new Solution();
-    vector<int> numbers1 = {1,2,3,0,0,0};
-    vector<int> numbers2 = {2,5,6};
-    vector<int> ret;
-    int m=3,n=3;
-    sol->merge(numbers1,m,numbers2,n);
-    for (int i = 0; i < numbers1.size(); ++i) {
-        cout<<numbers1[i]<<endl;
-    }
-
-    return 0;
-}
+//int main(){
+//    Solution* sol = new Solution();
+//    vector<int> numbers1 = {1,2,3,0,0,0};
+//    vector<int> numbers2 = {2,5,6};
+//    vector<int> ret;
+//    int m=3,n=3;
+//    sol->merge(numbers1,m,numbers2,n);
+//    for (int i = 0; i < numbers1.size(); ++i) {
+//        cout<<numbers1[i]<<endl;
+//    }
+//
+//    return 0;
+//}
