@@ -43,11 +43,11 @@ public:
     }
 };
 
-int main(){
-    Solution* sol = new Solution();
-    int x = 8;
-    int ret;
-    ret = sol->mySqrt(x);
-    std::cout<<ret<<std::endl;
-    return 0;
-}
+//int main(){
+//    Solution* sol = new Solution();
+//    int x = 8;
+//    int ret;
+//    ret = sol->mySqrt(x);
+//    std::cout<<ret<<std::endl;
+//    return 0;
+//}
