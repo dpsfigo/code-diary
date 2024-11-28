@@ -1,5 +1,5 @@
 //
-// Created by yuan Qing on 2024/11/19.
+// Created by dps_figo on 2024/11/19.
 //
 /***
  * Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.

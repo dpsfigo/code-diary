@@ -1,5 +1,5 @@
 //
-// Created by yuan Qing on 2024/11/12.
+// Created by dps_figo on 2024/11/12.
 //
 /***
  * Given an array of intervals intervals where intervals[i] = [starti, endi], return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.

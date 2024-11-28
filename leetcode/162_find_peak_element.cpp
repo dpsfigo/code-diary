@@ -1,5 +1,5 @@
 //
-// Created by yuan Qing on 2024/11/28.
+// Created by dps_figo on 2024/11/28.
 //
 /***
  * A peak element is an element that is strictly greater than its neighbors.
@@ -60,11 +60,11 @@ public:
     }
 };
 
-int main(){
-    Solution* sol = new Solution();
-    vector<int> nums = {1,2,1,3,5,6,4};
-    int ret;
-    ret = sol->findPeakElement(nums);
-    cout << ret;
-    return 0;
-}
+//int main(){
+//    Solution* sol = new Solution();
+//    vector<int> nums = {1,2,1,3,5,6,4};
+//    int ret;
+//    ret = sol->findPeakElement(nums);
+//    cout << ret;
+//    return 0;
+//}

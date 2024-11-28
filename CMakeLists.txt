@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 aux_source_directory(./leetcode leetcode_src)
 
-add_executable(code_diary ${leetcode_src})
+add_executable(code_diary ${leetcode_src} leetcode/81_search_in_rotated_sorted_array_II.cpp)

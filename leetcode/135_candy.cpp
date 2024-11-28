@@ -1,5 +1,5 @@
 //
-// Created by yuan Qing on 2024/10/29.
+// Created by dps_figo on 2024/10/29.
 //
 /***
  * There are n children standing in a line. Each child is assigned a rating value given in the integer array ratings.

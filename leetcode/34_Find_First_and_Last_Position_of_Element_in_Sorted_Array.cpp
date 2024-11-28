@@ -1,5 +1,5 @@
 //
-// Created by yuan Qing on 2024/11/27.
+// Created by dps_figo on 2024/11/27.
 //
 /***
 Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.

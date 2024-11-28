@@ -1,5 +1,5 @@
 //
-// Created by yuan Qing on 2024/11/26.
+// Created by dps_figo on 2024/11/26.
 //
 /***
  * Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
