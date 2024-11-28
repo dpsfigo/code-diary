@@ -56,14 +56,14 @@ public:
     }
 };
 
-int main(){
-    Solution* sol = new Solution();
-    vector<int> nums = {5,7,7,8,8,10};
-    int target = 8;
-    vector<int> ret;
-    ret = sol->searchRange(nums,target);
-    for (int i = 0; i < ret.size(); ++i) {
-        cout<<ret[i]<<endl;
-    }
-    return 0;
-}
+//int main(){
+//    Solution* sol = new Solution();
+//    vector<int> nums = {5,7,7,8,8,10};
+//    int target = 8;
+//    vector<int> ret;
+//    ret = sol->searchRange(nums,target);
+//    for (int i = 0; i < ret.size(); ++i) {
+//        cout<<ret[i]<<endl;
+//    }
+//    return 0;
+//}
